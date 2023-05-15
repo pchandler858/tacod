@@ -12,8 +12,6 @@ A taco review site and community powered by::
 - tailwindcss
 - heroku
 
-[This is an external link to the 'TACO'D' repository](https://github.com/rhodemc/taco-tribe)
-
 ## Description
 
 We were motivated to create a taco review site because other sites like Yelp are convoluted and don't focus on the most important part of the taco: the taco. With Taco'd, you can create an account, login, and post your own taco reviews. You can also view other users' reviews. 
@@ -34,7 +32,7 @@ If you don't want to install but still want to use the app, follow the link belo
 
 ![TACO'D - A Taco Review Site](/public/images/tacod.png)
 
-[This is an external link to 'TACO'D' hosted on Heroku](https://tacod.herokuapp.com/)
+[This is an external link to 'TACO'D' hosted on Heroku](https://tacod-app.herokuapp.com/)
 
 ## Credits
 
